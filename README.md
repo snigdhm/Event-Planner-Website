@@ -5,7 +5,7 @@ Eventplanner Website Version 1.0 06/11/2016
 # GENERAL USAGE INFORMATION
 --------------------------------------------------------------------------------
 
-Eventplanner is a website specially designed for the people looking forward
+Event Planner is a website specially designed for the people looking forward
 to organizing an event.The website provides a variety of famous vendors available
 for every part of an event.The vendors can include necessary information about
 their services alongwith contact information.The services can be booked depending
